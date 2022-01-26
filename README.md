@@ -23,3 +23,14 @@
 >  
 >[프로젝트 상세 설명](https://github.com/joyw93/yongcar) 참고
 
+</br>
+
+## :pushpin: Projects
+### 2. [고속도로 통행량 탐지](https://github.com/joyw93/cctv_project)
+>YOLO를 이용한 실시간 객체탐지 프로젝트 (개인 프로젝트)  
+>개발 기간: 2021.11.5 ~ 2021.11.12  
+>  
+>기술 스택:  
+>python 3 / Flask  / YOLO 
+>  
+>[프로젝트 상세 설명](https://github.com/joyw93/cctv_project) 참고
