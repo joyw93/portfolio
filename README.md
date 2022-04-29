@@ -8,13 +8,13 @@
 
 </br>
 
-## :pushpin: Contact
+## 📧 Contact
 - 이메일: joyw93@naver.com
 - 깃헙: https://github.com/joyw93
 
 </br>
 
-## :pushpin: Projects
+## 📚 Projects
 
 ### 1. [Node Car](https://github.com/joyw93/cocoding)
 >express + vue.js로 만든 풀스택 프로젝트 (개인 프로젝트)  
