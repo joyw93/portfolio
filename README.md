@@ -1,10 +1,10 @@
 # 조용원
-> 신입 Node.js 개발자 입니다.
+> 신입 Node.js 백엔드 개발자 입니다.
 
 ## :pushpin: Intro
 - 경희대학교 전자공학과 졸업 (2013.03 ~ 2020.02)
 - 코드스테이츠 AI 부트캠프 (2021.07.08 ~ 2022.01.27)
-- KOSTA Node.js 기반 웹 Full-stack 개발자 양성과정 (2022.03.10 ~ )
+- KOSTA Node.js 기반 웹 Full-stack 개발자 양성과정 (2022.03.10 ~ 2022.07.26)
 
 </br>
 
@@ -15,6 +15,15 @@
 </br>
 
 ## 📚 Projects
+
+### 0. [펫메이트](https://github.com/joyw93/pet-mate)
+>nestjs + react로 만든 풀스택 팀 프로젝트 (백엔드 1 + 프론트엔드 2)  
+>개발 기간: 2022.03.2 ~ (진행중)
+>  
+>기술 스택:  
+>javascript / nestjs / react / mysql
+>  
+>[프로젝트 상세 설명](https://github.com/joyw93/pet-mate) 참고
 
 ### 1. [Node Car](https://github.com/joyw93/cocoding)
 >express + vue.js로 만든 풀스택 프로젝트 (개인 프로젝트)  
