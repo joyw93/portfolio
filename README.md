@@ -25,6 +25,8 @@
 >  
 >[프로젝트 상세 설명](https://github.com/joyw93/pet-mate) 참고
 
+</br>
+
 ### 1. [Node Car](https://github.com/joyw93/cocoding)
 >express + vue.js로 만든 풀스택 프로젝트 (개인 프로젝트)  
 >개발 기간: 2022.03.2 ~ 2022.06.21
