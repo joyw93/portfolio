@@ -16,8 +16,11 @@
 
 ## 📚 Projects
 
-### 0. [펫메이트](https://github.com/joyw93/pet-mate)
->nestjs + react로 만든 풀스택 팀 프로젝트 (백엔드 1 + 프론트엔드 2)  
+### 1. [펫메이트](https://github.com/joyw93/pet-mate)
+>nestjs + react로 만든 풀스택 팀 프로젝트
+>
+>역할: 백엔드
+>
 >개발 기간: 2022.03.2 ~ 2022.07.26
 >  
 >기술 스택:  
@@ -27,7 +30,7 @@
 
 </br>
 
-### 1. [Node Car](https://github.com/joyw93/cocoding)
+### 2. [Node Car](https://github.com/joyw93/cocoding)
 >express + vue.js로 만든 풀스택 프로젝트 (개인 프로젝트)  
 >개발 기간: 2022.03.2 ~ 2022.06.21
 >  
@@ -38,7 +41,7 @@
 
 </br>
 
-### 2. [리액트 Todo-list](https://github.com/joyw93/react-Todolist)
+### 3. [리액트 Todo-list](https://github.com/joyw93/react-Todolist)
 >리액트를 이용해서 만든 간단한 Todo list (개인 프로젝트)  
 >개발 기간: 2022.04.24 ~ 2022.04.26  
 >  
@@ -49,7 +52,7 @@
 
 </br>
 
-### 3. [yongcar](https://github.com/joyw93/yongcar)
+### 4. [yongcar](https://github.com/joyw93/yongcar)
 >중고차 시세 예측 사이트 (개인 프로젝트)  
 >개발 기간: 2021.9.18 ~ 2021.10.12  
 >  
@@ -60,7 +63,7 @@
 
 </br>
 
-### 4. [고속도로 통행량 탐지](https://github.com/joyw93/cctv_project)
+### 5. [고속도로 통행량 탐지](https://github.com/joyw93/cctv_project)
 >YOLO를 이용한 실시간 객체탐지 프로젝트 (개인 프로젝트)  
 >개발 기간: 2021.11.5 ~ 2021.11.12  
 >  
