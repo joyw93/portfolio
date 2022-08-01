@@ -41,7 +41,7 @@
 
 </br>
 
-### 3. [리액트 Todo-list](https://github.com/joyw93/react-Todolist)
+### 3. [Todo-list](https://github.com/joyw93/react-Todolist)
 >리액트를 이용해서 만든 간단한 todo list (개인 프로젝트)  
 >개발 기간: 2022.04.24 ~ 2022.04.26  
 >  
@@ -52,7 +52,7 @@
 
 </br>
 
-### 4. [yongcar](https://github.com/joyw93/yongcar)
+### 4. [yong-car](https://github.com/joyw93/yongcar)
 >중고차 시세 예측 사이트 (개인 프로젝트)  
 >개발 기간: 2021.9.18 ~ 2021.10.12  
 >  
