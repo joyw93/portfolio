@@ -17,25 +17,25 @@
 ## 📚 Projects
 
 ### 1. [펫메이트](https://github.com/joyw93/pet-mate)
->Nestjs + React로 만든 풀스택 프로젝트 (팀 프로젝트)
+>NestJS + React로 만든 풀스택 프로젝트 (팀 프로젝트)
 >
 >역할: 백엔드
 >
 >개발 기간: 2022.06.28 ~ 2022.07.26
 >  
 >기술 스택:  
->Javascript / Nestjs / React / MySQL
+>Node.js / NestJS / React / MySQL
 >  
 >[프로젝트 상세 설명](https://github.com/joyw93/pet-mate) 참고
 
 </br>
 
 ### 2. [Node Car](https://github.com/joyw93/cocoding)
->Express + Vue로 만든 풀스택 프로젝트 (개인 프로젝트)  
+>Express + Vue.js로 만든 풀스택 프로젝트 (개인 프로젝트)  
 >개발 기간: 2022.03.2 ~ 2022.06.21
 >  
 >기술 스택:  
->Javascript / Express / Vue / MySQL
+>Node.js / Express / Vue.js / MySQL
 >  
 >[프로젝트 상세 설명](https://github.com/joyw93/cocoding) 참고
 
